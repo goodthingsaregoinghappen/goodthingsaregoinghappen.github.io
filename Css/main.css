@@ -646,6 +646,10 @@ header .navbar ul li a:hover{
 }
 /*search*/
 
+.table, th, td, tr {
+    border: 1px solid black;
+}
+
 
 
 
